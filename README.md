@@ -1,2 +1,3 @@
 # vijaysales
-this is an ecommerce app
+This is an ecommerce app
+client- Vijay Malhotra LTD
