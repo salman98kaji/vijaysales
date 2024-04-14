@@ -1,4 +1,4 @@
 # vijaysales
 This is an ecommerce app
 <br>
-client- Vijay Malhotra LTD
+client- Vijay Malhotra LTD (Banglore)
